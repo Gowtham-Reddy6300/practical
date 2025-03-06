@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Code Feature 2
+=======
+New feature
+>>>>>>> feature-branch
